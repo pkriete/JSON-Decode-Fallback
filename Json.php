@@ -1,4 +1,4 @@
-<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+<?php
 
 /**
  * The code in this file is heavily based on PHP 5.3.3's native
@@ -682,5 +682,4 @@ class Json {
 	}
 }
 
-/* End of file  */
-/* Location:  */
+/* End of file */
