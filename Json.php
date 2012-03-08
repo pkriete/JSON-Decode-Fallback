@@ -8,8 +8,9 @@
 /**
  * This class is meant as a fallback. The native json_decode is
  * much more performant. You are highly encouraged to check for
- * json_decode before including this file. The javascript driver
- * does this automatically.
+ * json_decode before including this file.
+ *
+ * @author Pascal Kriete <pascal.io>
  */
 class Json {
 	
